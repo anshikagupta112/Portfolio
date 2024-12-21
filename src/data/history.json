@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Mern Stack Intern",
+    "organisation": "PrepInsta",
+    "startDate": "Jan, 2024",
+    "endDate": "March,2024",
+    "experiences": ["Frontend", "Backend", "Handling API"],
+    "imageSrc": "history/PrepInsta.png"
+  },
+  {
+    "role": "WebDev Intern",
+    "organisation": "Code Alpha",
+    "startDate": "Oct, 2023",
+    "endDate": "Oct, 2023",
+    "experiences": ["Design and Development", "Testing and Debugging"],
+    "imageSrc": "history/Codealphaa.jpg"
+  }
+]

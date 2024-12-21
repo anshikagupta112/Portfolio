@@ -1,0 +1,18 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to get Real-time news updates and Article filtering by category.",
+    "skills": ["HTML", "CSS", "Javascript"],
+
+    "source": "https://github.com/anshikagupta112/News-Website"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made for managing book store. ",
+    "skills": ["React", "Express", "Node", "Bootstrap", "Javascript"],
+
+    "source": "https://github.com/anshikagupta112/Book-Store"
+  }
+]
